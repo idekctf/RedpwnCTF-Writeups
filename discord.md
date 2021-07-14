@@ -7,12 +7,12 @@ So this one stumped our team the most by FAR. First off, none of us had Discord 
 ```
 flag{...}
 ```
-Oh shoot wrong flag. F***
+Oh shoot wrong flag. 
 WIth more searching and command+f, we finally found another flag that looked a little odd.
 ```
 flag\{[ -z|~]+\})
 ```
-Ah shoot wrong flag again... F*** Sh*t
+Ah shoot wrong flag again...
 Ok... we actually found it an hour before the competition ended.
 ```
 flag{chall3n63_au7h0r5h1p_1nfl4710n}
